@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @RinchenYonjan
-- 👀 I’m interested in software enginnering
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m @RinchenYonjan.
+- 👀 I’m interested in Tech.
+- 🌱 I’m currently learning college.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
